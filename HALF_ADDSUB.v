@@ -1,7 +1,12 @@
-module HALF_ADDSUB(a,b,sum,carry,D,Bo);
+module ha(a,b,sum,carry);
 input a,b;
-output sum,carry,D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow Bo for half subtractor
-//TYPE HERE THE COMMAND FOR SUM GENERATION IN GATE LEVEL MODELLING
-//TYPE HERE THE COMMAND FOR CARRY GENERATION IN GATE LEVEL MODELLING
-//Type logic for half subtractor difference D,Borrow Bo using gate level modelling
+output sum,carry;
+assign sum= (a ^ b);
+assign carry= ( a & b);
+endmodule
+module hs(a,b,difference,borrow);
+input a,b;
+output difference,borrow;
+assign difference= (a ^ b);
+assign borrow= ( ~a & b);
 endmodule
