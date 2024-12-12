@@ -1,4 +1,6 @@
-# HALF_ADDER_SUBTRACTOR
+### Register number : 24900880
+### Name : Abishek Priyan M
+### Experiment : HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
