@@ -1,6 +1,6 @@
 ### Register number : 24900880
 ### Name : Abishek Priyan M
-### Experiment : HALF_ADDER_SUBTRACTOR
+### Experiment 3: HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -15,7 +15,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime Theory Adders are digital circuits that carry out the addition of numbers.
 
 **Half Adder**
-
+/
 Half adder is a combinational circuit that performs simple addition of two binary numbers. The input variables designate the augend and addend bits; the output variables produce the sum and carry. It is necessary to specify two output variables because the result may consist of two binary digits.
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
@@ -57,12 +57,6 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by: Abishek Priyan M 
-
-RegisterNumber: 24900880
 
 ![op](image-4.png)
 
