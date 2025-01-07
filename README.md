@@ -1,6 +1,6 @@
 ### Register number : 24900880
 ### Name : Abishek Priyan M
-### Experiment 3: IMPLEMENTATION OF HALF ADDER SUBTRACTOR
+### Experiment 3: IMPLEMENTATION OF HALF ADDER AND SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
